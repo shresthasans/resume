@@ -37,3 +37,4 @@ package.json
 .Trashes
 .jshintrc
 gulpfile.js
+output
